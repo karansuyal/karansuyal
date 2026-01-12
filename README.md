@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Karan Suyal
 
-<!--
-**karansuyal/karansuyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 React & Frontend Developer  
+🚀 Passionate about building web applications and learning new technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- React.js
+- Java
+- C++
+- Git & GitHub
+- Basic Data Structures & Algorithms
+
+---
+
+## 📂 Projects
+- **Notes Hub** – A centralized platform to create, organize, and manage notes efficiently
+- **AI Recipe Generator** – AI-powered app that generates recipes based on user input
+- **AI Attendance Management System** – Automated attendance using facial recognition
+- **React Mini Projects** – UI-focused React applications
+
+---
+
+## 📈 Currently Learning
+- Advanced React
+- Data Structures & Algorithms
+- Backend Fundamentals
+
+---
+
+## 🎯 Career Goal
+To start my career as a Software Developer and grow in a technology-driven organization.
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/karansuyal  
+- LinkedIn: (www.linkedin.com/in/karan-suyal-0210bb321)
+
