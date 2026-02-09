@@ -7,7 +7,6 @@
 
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
-- React.js
 - Java
 - C++
 - Git & GitHub
