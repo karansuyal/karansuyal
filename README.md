@@ -15,7 +15,7 @@
 ---
 
 ## 📂 Projects
-- **Notes Hub** – A centralized platform to create, organize, and manage notes efficiently
+- **Study Portal** – A centralized platform to create, organize, and manage notes efficiently
 - **AI Recipe Generator** – AI-powered app that generates recipes based on user input
 - **AI Attendance Management System** – Automated attendance using facial recognition
 - **React Mini Projects** – UI-focused React applications
